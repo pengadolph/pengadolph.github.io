@@ -94,8 +94,8 @@ exclude:
 ignore:
 
 # Extensions
-## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
+## Plugins: http://hexo.io/plugins/
+## Themes: http://hexo.io/themes/
 theme: anodyne
 
 # Deployment
